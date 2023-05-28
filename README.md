@@ -1,4 +1,6 @@
 # artificial-intelligence-practice
+- 학습 목적으로 작성
+- Decision tree, SVM, MLP, CNN, 사전학습, RNN, LSTM 예제 포함
 
 - numpy
 https://numpy.org/doc/stable/user/quickstart.html
